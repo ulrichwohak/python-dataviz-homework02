@@ -1,0 +1,15 @@
+[project]
+name = "dataviz-homework02"
+version = "0.1.0"
+description = "Week 2 figure assignment for Data Visualization and Storytelling"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "pandas>=2.2",
+    "matplotlib>=3.8",
+    "seaborn>=0.13",
+    "jupyterlab>=4.1",
+    "ipykernel>=6.29",
+]
+
+[tool.uv]
+package = false

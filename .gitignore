@@ -1,0 +1,14 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+.secrets.md
+.env
+.vscode/
+*.aux
+*.log
+*.out
+*.synctex.gz
+figures/*
+!figures/.gitkeep

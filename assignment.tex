@@ -1,0 +1,52 @@
+\documentclass[11pt,a4paper]{article}
+\usepackage[margin=25mm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage[hidelinks]{hyperref}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.8em}
+\pagestyle{empty}
+
+\begin{document}
+\textbf{Data Visualization and Storytelling: Week 2 homework}
+
+Employed adults spend time on their jobs as well as on household tasks and
+caring for others. The American Time Use Survey records how people spend
+a day. This assignment uses those data to examine women's and men's
+working time.
+
+\textbf{Question}
+
+Does including household and care work change the comparison of women's
+and men's working time?
+
+Answer the question using a single figure created in Python. Submit only
+the figure, including its title and accompanying notes.
+
+\textbf{Data and setup}
+
+Open the homework repository:\newline
+\url{https://github.com/ulrichwohak/python-dataviz-homework02}.
+
+Click \textbf{Fork}, select your own GitHub account as the owner, keep the
+repository name, and click \textbf{Create fork}. Then clone your fork to
+your computer. Replace \texttt{YOUR-USERNAME} with your GitHub username:
+
+{\small
+\begin{verbatim}
+git clone https://github.com/YOUR-USERNAME/python-dataviz-homework02.git
+cd python-dataviz-homework02
+\end{verbatim}
+}
+
+Follow \texttt{README.md} to set up the environment, then open
+\texttt{analysis.ipynb}.
+
+The notebook loads \texttt{data/working\_time.csv}, included in the repository.
+This file contains prepared estimates from the 2024 American Time Use Survey
+for employed US adults aged 25--54. Variable definitions and source
+information are in \texttt{data/README.md}.
+
+Original data: US Bureau of Labor Statistics,\newline
+\url{https://www.bls.gov/tus/data/datafiles-2024.htm}.
+\end{document}

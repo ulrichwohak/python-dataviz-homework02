@@ -1,0 +1,19 @@
+day_type,measure,series,estimate_hours,ci_low_hours,ci_high_hours
+Weekdays,Job-related work,Men,7.857500,7.558580,8.156420
+Weekdays,Household and care work,Men,1.838531,1.623811,2.053251
+Weekdays,Combined work,Men,9.696031,9.368479,10.023582
+Weekdays,Job-related work,Women,6.741170,6.357812,7.124529
+Weekdays,Household and care work,Women,2.635240,2.440795,2.829685
+Weekdays,Combined work,Women,9.376410,9.053038,9.699782
+Weekdays,Job-related work,Women minus men,-1.116330,-1.591639,-0.641020
+Weekdays,Household and care work,Women minus men,0.796709,0.523734,1.069684
+Weekdays,Combined work,Women minus men,-0.319621,-0.787649,0.148408
+Weekends and holidays,Job-related work,Men,1.848114,1.522570,2.173657
+Weekends and holidays,Household and care work,Men,2.973960,2.724136,3.223784
+Weekends and holidays,Combined work,Men,4.822073,4.497825,5.146322
+Weekends and holidays,Job-related work,Women,1.539206,1.256055,1.822357
+Weekends and holidays,Household and care work,Women,3.757061,3.488502,4.025620
+Weekends and holidays,Combined work,Women,5.296267,4.987894,5.604640
+Weekends and holidays,Job-related work,Women minus men,-0.308908,-0.747153,0.129337
+Weekends and holidays,Household and care work,Women minus men,0.783101,0.401563,1.164640
+Weekends and holidays,Combined work,Women minus men,0.474194,0.028671,0.919716
